@@ -1,5 +1,5 @@
  
-
+#square class
 public class Square
    {
    private boolean isBlack;
